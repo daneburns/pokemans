@@ -2,8 +2,10 @@
 <picture>
 <img src="./images/slowbro.png" alt="slowbro" width="100"/>
 </picture>
+
 ### Nature
 Relaxed
+
 ### Held Item
 Heavy-Duty Boots
 ### Moveset
