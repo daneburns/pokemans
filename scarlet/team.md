@@ -117,7 +117,7 @@ A trick room setter and special attacker.
 
 # Hippowdon
 <picture>
-<img src="./images/hippowdon.png" alt="hippowdon" width="100"/>
+<img src="./images/hippowdon-fixed.png" alt="hippowdon" width="100"/>
 </picture>
 
 ### Nature
