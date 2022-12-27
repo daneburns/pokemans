@@ -147,7 +147,7 @@ A tanky physical attacker with entry hazards and sandstorm setup. Opener for Pal
 
 # Palossand
 <picture>
-<img src="./images/palossand.png" alt="palossand" width="100"/>
+<img src="./images/palossand.webp" alt="palossand" width="100"/>
 </picture>
 
 ### Nature
