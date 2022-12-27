@@ -86,9 +86,93 @@ Ripen
 A tanky special attacker that can use Apple Acid to prep for a special attack sweep or do some damage on his own. Can also setup leech seed to be annoying.
 
 # Armarouge
+<picture>
+<img src="./images/armarouge.png" alt="armarouge" width="100"/>
+</picture>
 
+### Nature
+Quiet
 
-# Palosand ?? 
+### Held Item
+Life Orb
+
+### Moveset
+Armor Cannon 
+<br/>
+Trick Room
+<br/>
+Psychic
+<br/>
+Protect
+
+### EV
+252 HP / 252 SpA / 4 SpD 
+
+### Ability
+Flash Fire
+
+<h3><ins>Summary</ins></h3>
+A trick room setter and special attacker. 
+
 
 # Hippowdon
+<picture>
+<img src="./images/hippowdon.png" alt="hippowdon" width="100"/>
+</picture>
+
+### Nature
+Careful
+
+### Held Item
+Leftovers
+
+### Moveset
+Earthquake
+<br/>
+Slack Off
+<br/>
+Stealth Rock
+<br/>
+Whirlwind
+
+### EV
+252 HP / 252 SpD / 4 Def 
+
+### Ability
+Sand Stream
+
+<h3><ins>Summary</ins></h3>
+A tanky physical attacker with entry hazards and sandstorm setup. Opener for Palossand and Shore Up.
+
+
+# Palossand
+<picture>
+<img src="./images/palossand.png" alt="palossand" width="100"/>
+</picture>
+
+### Nature
+Bold
+
+### Held Item
+Leftovers
+
+### Moveset
+Shadow Ball
+<br/>
+Earth Power
+<br/>
+Stealth Rock
+<br/>
+Shore Up
+
+### EV
+252 HP / 252 Def / 4 SpD 
+
+### Ability
+Sand Stream
+
+<h3><ins>Summary</ins></h3>
+A tanky defensive stall that capitalizes on sand stream to get more evasion and shore up to heal.
+
+
 
